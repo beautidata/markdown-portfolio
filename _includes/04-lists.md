@@ -1,4 +1,4 @@
-# favorite things
+## favorite things
 * broccoli
 * bottles
 * books
